@@ -14,6 +14,7 @@
 			echo "Error " . $sql . ' ' . $connect->connect_error;
 		}
 	 
+		
 		$connect->close();
 	}
 	 
